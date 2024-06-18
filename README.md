@@ -60,12 +60,12 @@ ________________________________________________________
 * Training: Train the CNN model on the training dataset, optimizing it to accurately distinguish between tumor and non-tumor images.
 * Validation: Validate the model using a separate validation set to tune hyperparameters and prevent overfitting.
 
-6. Model Evaluation ⚙️ :
+7. Model Evaluation ⚙️ :
 * Evaluate the trained model using the test dataset to assess its performance.
 * Key metrics include accuracy, precision, recall, and F1-score.
 * Visualize the results with confusion matrices to understand the model's strengths and weaknesses.
 
-7. Results and Implementation 📊 :
+8. Results and Implementation 📊 :
 * The Model achieved 99.19% Accuracy 📈
 * The Model achieved 0.03% Loss 📉
 
