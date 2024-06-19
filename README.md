@@ -1,4 +1,4 @@
-:brain: Brain Tumor Detection using Image Processing
+Brain Tumor Detection using Image Processing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />
 ________________________________________________________
 
 * Frameworks 📒 :
